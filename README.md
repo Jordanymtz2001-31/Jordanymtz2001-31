@@ -1,10 +1,14 @@
 <h2> Hola mi nombre es Jordany! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<!-- 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
+-->
 
 ### 🚀 Experiencia  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div>
+<img src ="./image/line2.gif" align ="right">	
+</div>
 
 - Lenguangues de Programacion: Python, Java, SQL, HTMTL 
 - Desarrollo web: Actualmente estoy en desarrollo de aprendiendo mas.
@@ -16,6 +20,7 @@ Estoy profundamente interesado en:
 
 - Construir proyectos de la vida real que resuelvan problemas significativos.
 - Explorar el fascinante campo de la IA y experimentar con diferentes conjuntos de datos y modelos.
+
 
 ### 📚 Hobbies
 
@@ -49,6 +54,8 @@ Aparte de programar, disfruto de:
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
+
+
 
 <!--
 **Jordanymtz2001-31/Jordanymtz2001-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
