@@ -10,9 +10,9 @@
 <img src ="./image/line2.gif" align ="right">	
 </div>
 
-- Lenguangues de Programacion: Python, Java, SQL, HTML 
+- Lenguangues de Programacion: Python, Java, Bases de datos, HTML, TypeScrip 
 - Desarrollo web: Actualmente estoy en desarrollo de aprendiendo mas.
-- Habilidades interpersonales: Excelente comunicación, colaboración, Trabajo en equipo y autonomo.
+- Habilidades interpersonales: Excelente comunicación, colaboración, Trabajo en equipo y autodidacta.
 
 ### 💡 Intereses
 
